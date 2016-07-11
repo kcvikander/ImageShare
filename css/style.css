@@ -1,0 +1,16 @@
+/* Text Input */
+.control-container label {
+	font-weight: bold;
+	color: rgb(90,90,90);
+	font-size: 1em;
+	letter-spacing: .2em;
+}
+.control-container input {
+	border-radius: .3em;
+	width: 5em;
+	font-size: 1.5em;
+}
+.control-container {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: .5em 0;
+}
